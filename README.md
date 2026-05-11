@@ -25,4 +25,12 @@ ESTADO: Borrador,en_revision,en_proceso,archiva,enviado,publicado,rechazado
 
 PLANTILLA METADATOS
 ---
-
+codigo:
+titulo:
+version: 1.1
+rèponsables:
+fecha_creacion: 
+fecha_revision:
+estado: Aprobado
+palabra_clave:
+ ---
