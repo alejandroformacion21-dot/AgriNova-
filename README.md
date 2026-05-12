@@ -25,12 +25,25 @@ ESTADO: Borrador,en_revision,en_proceso,archiva,enviado,publicado,rechazado
 
 PLANTILLA METADATOS
 ---
-codigo:
-titulo:
+codigo:FR_MANZANA_2021_000
+titulo: Ficha tecnica de fruta
 version: 1.1
-rèponsables:
-fecha_creacion: 
-fecha_revision:
+rèponsables: Marta Gonzalez
+fecha_creacion: 22/02/2021
+fecha_revision: 23/02/2021
 estado: Aprobado
-palabra_clave:
+palabra_clave: {Fruta,hortaliza,cremas,gazpacho,conservas vegeales preparado}
  ---
+Flujo de trabajo
+- Issue para pedir documento o modificacion-- Tecnico---
+- Crea una rama para el documento segun tipo--- frutas--- hortalizas
+- edita el docuemnto por parte de agrinova alimentos
+- Abre un pull request (peticion de aprobacion)
+-  El verificador/responsable aprueba y hace rerge
+-  Le colula de la etiqueta de publicado y lo coloca en la carpeta de documentos publicos.
+-  estado inicial del documento
+-  que actor tiene que hacer
+-   que tiene que hace (tarea,condiciones,plazo)
+-   y cual seria el estado siguiente
+
+  Estados de los documentos- ciclo de vida de los documentos 
